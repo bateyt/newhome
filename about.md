@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Trey Batey is a biological anthropologist and currently an instructor of anthropology in the [Department of Department of Anthropology and Sociology](https://people.eou.edu/anthsoc/)
+Hello. My name is Trey Batey, and I am a biological anthropologist and current faculty member in the Social Sciences Department of Lower Columbia College. Also, I retain teaching ties with the [Department of Department of Anthropology and Sociology](https://people.eou.edu/anthsoc/)
 at Eastern Oregon University and the [Social Science Department](http://www.mhcc.edu/SocialScience.aspx) at Mt. Hood Community College.
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/batey_cv.pdf)
